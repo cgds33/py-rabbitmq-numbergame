@@ -13,6 +13,8 @@ If they know the number sent by the rival program, they send points to the queue
 
 <br>
 
+![image description](numbergame.jpg)
+
 After installing the RabbitMQ server and python requirements, you can run both scripts separately and observe the application.
 
 
